@@ -89,10 +89,10 @@ public class LoginSearchAndShop extends DriverInitialization {
 
     }
 
-  /*  @AfterTest
+    @AfterTest
     public void teardown() {
         driver.quit();
-    }*/
+    }
 
 
 }
